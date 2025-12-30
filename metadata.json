@@ -1,0 +1,5 @@
+{
+  "name": "Kingmaker Kingdom Manager",
+  "description": "A brutalist-style kingdom management dashboard for tabletop RPGs, featuring settlement tracking, event management, and kingdom attribute controls.",
+  "requestFramePermissions": []
+}
